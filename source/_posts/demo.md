@@ -7,4 +7,4 @@ tags:
 ## hexo demo
 
 - this is a test for hexo
-- markdown show test
+- markdown show test 2
